@@ -16,7 +16,7 @@ https://zhuanlan.zhihu.com/quant-learning
 
 本文大部分分析都是根据这篇文章做出的：https://bigquant.com/community/t/topic/260
 
-我这里首先封装了一下**tushare**的常用获取接口后面通过**from stock_api import **来获取
+我这里首先封装了一下**tushare**的常用获取接口后面通过**from stock_api import**来获取
 
 ```python
 import tushare as ts
